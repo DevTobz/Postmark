@@ -1,0 +1,6 @@
+runtime: nodejs
+env: flex
+
+env_variables:
+  POSTMARK_SERVER_TOKEN: "20a47068-27dd-446d-9283-82965d96b8d2"
+  FROM_EMAIL: "holla@askesosa.com"
